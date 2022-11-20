@@ -25,6 +25,12 @@ http://localhost:8080
 There are several of cloud providers available in the market, I will list here 3 of them and their service options to host my container online.
 
 ### DigitalOcean
+This cloud provider allows to build, deploy and scale apps in a fast way with docker. Its installation is easy and you set things to be done automatically.
+Its main features are:
+* Easy to use API
+* 99.99% uptime
+* Monitoring and Alerting
+* Global data centers
 
 ### Microsoft Azure
 Is one of the biggest cloud service provider. It is a good option for small applications as you have access of some services for free and you only pay if you use more than your free monthly amount, using the system pay as you go. And besides of being good, is not an expensive provider, if you have a few users you might do not need to pay as it will be inside of the amount of free services monthly.
@@ -56,5 +62,15 @@ DEV Community. (n.d.). Dockerizing a NodeJS , Express, Redis with Nginx Proxy us
 ‌hub.docker.com. (n.d.). Docker Hub. [online] Available at: https://hub.docker.com/_/nginx [Accessed 19 Nov. 2022].
 
 ‌Kadakoğlu, Ç. (2022). How to run NGINX for root & non-root. [online] KoçSistem. Available at: https://medium.com/kocsistem/how-to-run-nginx-for-root-non-root-5ceb13db6d41 [Accessed 20 Nov. 2022].
+
+DigitalOcean. (2019). DigitalOcean – The developer cloud. [online] Available at: https://www.digitalocean.com.
+
+‌azure.microsoft.com. (n.d.). Get to Know Azure | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/explore/.
+
+‌Anon, (2022). The 8 Best Docker Hosting or Container Hosting Platforms of 2022 - LinuxBuz. [online] Available at: https://linuxbuz.com/best-resources/docker-hosting-platform [Accessed 20 Nov. 2022].
+
+‌www.kamatera.com. (n.d.). Kamatera Express – Performance Cloud Infrastructure. [online] Available at: https://www.kamatera.com/express/compute/?tcampaign=35166_381170&bta=35166&nci=5422 [Accessed 20 Nov. 2022].
+
+‌
 
 ‌
