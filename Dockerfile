@@ -4,7 +4,7 @@ FROM node as build
 # Creating app directory:
 WORKDIR /app
 
-RUN adduser -D static
+#RUN adduser -D static
 
 # download my aplication from GitHub
 RUN wget https://github.com/janainatrindade/mobdev_ca3/archive/main.tar.gz \
