@@ -28,10 +28,19 @@ There are several of cloud providers available in the market, I will list here 3
 
 ### Microsoft Azure
 Is one of the biggest cloud service provider. It is a good option for small applications as you have access of some services for free and you only pay if you use more than your free monthly amount, using the system pay as you go. And besides of being good, is not an expensive provider, if you have a few users you might do not need to pay as it will be inside of the amount of free services monthly.
-* Some of its meand features are:
+Some of its main features are:
 * Supports traditional apps and micro-services
 * Supports windows or linux apps in a docker container
 * Build secure apps
+
+### Kamatera
+It allows a cloud server to deploy and manage the docker containers.
+It provides strong performance to users as it has invested in equipment for high-quality performance such as SSD storage. It has a flexible price, starts at $4 per month for 1 CPU core
+Some of its main features are:
+* Run any windows or Linux operating system
+* Scale various servers in seconds
+* Purpose built, high-end data centers
+* 99.95% up-time guaranteed
 
 
 
