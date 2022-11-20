@@ -32,4 +32,6 @@ DEV Community. (n.d.). Dockerizing a NodeJS , Express, Redis with Nginx Proxy us
 
 ‌hub.docker.com. (n.d.). Docker Hub. [online] Available at: https://hub.docker.com/_/nginx [Accessed 19 Nov. 2022].
 
+‌Kadakoğlu, Ç. (2022). How to run NGINX for root & non-root. [online] KoçSistem. Available at: https://medium.com/kocsistem/how-to-run-nginx-for-root-non-root-5ceb13db6d41 [Accessed 20 Nov. 2022].
+
 ‌
