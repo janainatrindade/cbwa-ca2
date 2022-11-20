@@ -28,10 +28,10 @@ There are several of cloud providers available in the market, I will list here 3
 
 ### Microsoft Azure
 Is one of the biggest cloud service provider. It is a good option for small applications as you have access of some services for free and you only pay if you use more than your free monthly amount, using the system pay as you go. And besides of being good, is not an expensive provider, if you have a few users you might do not need to pay as it will be inside of the amount of free services monthly.
-*Some of its meand features are:
-*Supports traditional apps and micro-services
-*Supports windows or linux apps in a docker container
-*Build secure apps
+* Some of its meand features are:
+* Supports traditional apps and micro-services
+* Supports windows or linux apps in a docker container
+* Build secure apps
 
 
 
