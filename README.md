@@ -21,6 +21,20 @@ docker run -it --rm -p 8080:8080 static-website
 http://localhost:8080 
 ```
 
+## Cloud Providers
+There are several of cloud providers available in the market, I will list here 3 of them and their service options to host my container online.
+
+### DigitalOcean
+
+### Microsoft Azure
+Is one of the biggest cloud service provider. It is a good option for small applications as you have access of some services for free and you only pay if you use more than your free monthly amount, using the system pay as you go. And besides of being good, is not an expensive provider, if you have a few users you might do not need to pay as it will be inside of the amount of free services monthly.
+Some of its meand features are:
+Supports traditional apps and micro-services
+Supports windows or linux apps in a docker container
+Build secure apps
+
+
+
 ## References
 DEV Community. (n.d.). Dockerizing a NodeJS , Express, Redis with Nginx Proxy using Docker Compose. [online] Available at: https://dev.to/docker/dockerizing-a-nodejs-express-redis-app-with-nginx-proxy-using-docker-compose-17ge [Accessed 19 Nov. 2022].
 
